@@ -1,0 +1,63 @@
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+   background-color: black;width: 60%;
+   color: white;
+  
+ }
+ .cete{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+ }
+ body{
+    background-image: url(https://www.enter.co/wp-content/uploads/2021/08/4884785-768x432.jpg);
+ }
+ .row{
+   color: white;
+   border-radius: 10%;
+ }
+ div{
+    font-family: 'Nunito Sans', sans-serif;
+ }
+ button{
+    background-color: black;
+    color: white;
+ }
+ .poli{
+    color: white;
+    border-radius: 10%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+   }
+   .politica{
+      display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: black;
+    color: white;
+   }
+   .acerca{
+      display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+   background-color: black;width: 60%;
+   color: white;
+   }
+   ._1uldx{
+      display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: black;
+    color: white;
+   }
+   
